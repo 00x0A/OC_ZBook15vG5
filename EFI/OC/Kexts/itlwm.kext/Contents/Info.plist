@@ -61,9 +61,9 @@
 				<key>WiFi_1</key>
 				<dict>
 					<key>password</key>
-					<string>Zamzamdojo13</string>
+					<string>enterpassword</string>
 					<key>ssid</key>
-					<string>TP-Link_74FC</string>
+					<string>enternetworkname</string>
 				</dict>
 			</dict>
 		</dict>
