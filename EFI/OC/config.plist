@@ -1039,96 +1039,6 @@
                     <key>Arch</key>
                     <string>Any</string>
                     <key>BundlePath</key>
-                    <string>VoodooI2C.kext</string>
-                    <key>Comment</key>
-                    <string>V2.9.1</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/VoodooI2C</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext</string>
-                    <key>Comment</key>
-                    <string>V1.1</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/VoodooGPIO</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext</string>
-                    <key>Comment</key>
-                    <string>V1</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/VoodooI2CServices</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext</string>
-                    <key>Comment</key>
-                    <string>V1.1.6</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/VoodooInput</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>VoodooI2CHID.kext</string>
-                    <key>Comment</key>
-                    <string>V1</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/VoodooI2CHID</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
                     <string>Sinetek-rtsx.kext</string>
                     <key>Comment</key>
                     <string>V7</string>
@@ -1587,7 +1497,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02051270GUJH4RAD</string>
+                <string>C020502704NJH4R1H</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1601,9 +1511,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro15,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02DV0F2JHCC</string>
+                <string>C02DT2ZXJHCC</string>
                 <key>SystemUUID</key>
-                <string>32461B8B-6975-491E-9E85-5DD8B29609AE</string>
+                <string>205EE788-DF2C-47D7-8F51-78D9F6ABD46A</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
