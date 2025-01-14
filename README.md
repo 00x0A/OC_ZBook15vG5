@@ -6,7 +6,7 @@ Everything I’ve tired works out of the box except for airdrop functionality as
 
 For sdcard functionality + thunderbolt functionality enable IOElectrify and Sinetek-rtsx, I haven’t tested those as I don’t use those functions.
 
-Edit itlwm.kext > info.plist to use your specific wifi(s)
+Edit itlwm.kext > info.plist to use your specific wifi(s). You may use Heliport to have a interface for setting up wifi.
 
 Generate USBMap specific to your laptop or use the premade one. Should some USB port not work you’ll need to map it yourself.
 
